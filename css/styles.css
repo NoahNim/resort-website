@@ -1,0 +1,27 @@
+nav {
+  word-spacing: 200px;
+  border-top: 40px;
+  border-bottom: 1px;
+  border-color: #e0f0f9;
+  background-color: #e0f0f9;
+  padding-top: 5px;
+  padding-right: 30px;
+  position: absolute;
+  left: 0;
+  top: 0;
+  z-index: 1;
+}
+
+nav li {
+ display: inline-block;
+ font-size: 34px;
+}
+
+html {
+  background-color: #e9e9ca;
+}
+
+body {
+  padding-top: 70px;
+  text-align: center;
+}
