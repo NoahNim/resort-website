@@ -1,29 +1,24 @@
 nav {
-  word-spacing: 200px;
-  border-top: 40px;
-  border-bottom: 1px;
-  border-color: #e0f0f9;
-  background-color: #e0f0f9;
-  padding-top: 5px;
-  padding-right: 30px;
-  position: absolute;
-  left: 0;
-  top: 0;
-  z-index: 1;
+  width: 150px;
+  float: left;
+  display: inline;
+  margin: 0;
+  padding: 0;
+  margin-right: 10px;
+  background-color: white;
 }
 
 nav li {
  display: inline-block;
- font-size: 34px;
-}
-
-html {
-  background-color: #e9e9ca;
+ font-size: 18px;
+ text-align: left;
 }
 
 body {
   padding-top: 70px;
   text-align: center;
+  background-image: url("https://www.omnihotels.com/-/media/images/hotels/phxrst/photos/resort/phxrst-omni-scottsdale-resort-montelucia-pool-4-hero.jpg?%20responsive-widths=&la=en");
+  color: #c61d00;
 }
 
 #motto {
@@ -41,4 +36,12 @@ body {
 .activity {
   list-style-type: none;
   background-color: #e0f0f9;
+}
+
+h1 {
+  color: black;
+}
+
+#lahey {
+  background-color: #0099c6;
 }
