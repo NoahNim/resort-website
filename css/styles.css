@@ -25,3 +25,20 @@ body {
   padding-top: 70px;
   text-align: center;
 }
+
+#motto {
+  font-size: 26px;
+  font-style: italic;
+  color: #4aa54b;
+}
+
+.acmd {
+  list-style-type: none;
+  background-image: linear-gradient(to right, #e0f0f9, #e0f0f9);
+  font-size: 21px;
+}
+
+.activity {
+  list-style-type: none;
+  background-color: #e0f0f9;
+}
